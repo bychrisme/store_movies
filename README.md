@@ -5,7 +5,7 @@ List films by performing actions such as deletion and likes, while implementing 
 
 clone the project
 
-`git clone git https://github.com/bychrisme/store_movies.git`
+`git clone https://github.com/bychrisme/store_movies.git`
 
 ## Install dependencies
 
